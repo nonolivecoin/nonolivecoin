@@ -1,2 +1,0 @@
-# nonolivecoin
-a
